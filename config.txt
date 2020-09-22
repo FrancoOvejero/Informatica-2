@@ -1,7 +1,4 @@
-
-El archivo config es este:
 #Tiempo en el que actua el semaforo principal
 TiempoSemaf 35
 #Tiempo que dura el giro a la izquierda
 TiempoGiro 20
-
