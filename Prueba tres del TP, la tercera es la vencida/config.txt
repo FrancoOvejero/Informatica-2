@@ -1,0 +1,4 @@
+#Tiempo en el que actua el semaforo principal
+TiempoSemaf 20
+#Tiempo que dura el giro a la izquierda
+TiempoGiro 35
